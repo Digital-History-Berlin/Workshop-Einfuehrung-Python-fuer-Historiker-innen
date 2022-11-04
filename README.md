@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fscm.cms.hu-berlin.de%2Fdigital-history%2Flehre%2Fuebung-python-1/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Digital-History-Berlin/Workshop-Einfuehrung-Python-fuer-Historiker-innen/tree/main/HEAD)
 
 # Workshop-Einführung-Python-für-Historiker-innen
 
@@ -19,7 +19,7 @@ Wir arbeiten im Workshop mit externen webbasierten Tools (d.h. im Browser), um P
 
 Um die im Repo liegenden Notebooks zu starten, stellen wir zwei Möglichkeiten vor:
 
-1. Klicken Sie oben auf den Banner ![Binder](https://mybinder.org/badge_logo.svg) . Dies startet eine JupyterLab-Session im Browser mit den Notebooks aus dem Repositorium. Dafür wird intern das Tool *Binder* verwendet. Der Build-Prozess kann mitunter etwas dauern.
+1. Klicken Sie oben oder hier auf den Banner [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Digital-History-Berlin/Workshop-Einfuehrung-Python-fuer-Historiker-innen/tree/main/HEAD) . Dies startet eine JupyterLab-Session im Browser mit den Notebooks aus dem Repositorium. Dafür wird intern das Tool *Binder* verwendet. Der Build-Prozess kann mitunter etwas dauern.
 
 2. Wenn Sie ein Google-Konto besitzen, können Sie [Google Colaboratory](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj0xZyosYP7AhX1YPEDHVDpD0kQFnoECA0QAQ&url=https%3A%2F%2Fcolab.research.google.com%2F&usg=AOvVaw3A5aPK2kLFzKOzb6sOckVw) verwenden. Hierzu müssen Sie die Notebooks im GitLab-Repository als zip-Datei herunterladen und auf Ihrem Rechner entpacken. Sie können die Notebooks danach in Google Colab entweder über Ihr lokales Filesystem oder über Google Drive hochladen. 
 
