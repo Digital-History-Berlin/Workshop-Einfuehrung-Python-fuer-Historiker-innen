@@ -2,7 +2,7 @@
 
 # Workshop Einführung Python für Historiker:innen
 
-In diesem Repositorium finden Sie die Jupyter Notebooks, die wir im Workshop 'Einführung in Python für Historiker:innen'
+In diesem Repositorium finden Sie die Jupyter Notebooks, die wir im Workshop 'Einführung in Python für Historiker:innen' nutzen.
 
 Das Repo enthält für die einzelnen Einheiten jeweils
 
