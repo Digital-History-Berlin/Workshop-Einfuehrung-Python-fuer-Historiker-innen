@@ -9,7 +9,7 @@ Das Repo enthält für die einzelnen Einheiten jeweils
 * ein Notebook, das wir gemeinsam im Workshop durchgehen (mit vor- und nachcoden)
 * ein Notebook, das Übungsaufgaben enthält
 
-Die Lösungs Notebooks werden nach dem Workshop ergänzt.
+Die Lösungs Notebooks werden nach dem Workshop ergänzt. Wenn Sie die Inhalte nochmals in Ruhe und im eigenen Tempo nacharbeiten möchten können Sie finden Sie diese in unserem Jupyter Book [Python für Historiker:innen](https://digital-history-berlin.github.io/Python-fuer-Historiker-innen/home.html)
 
 Happy Coding! 😸
 
